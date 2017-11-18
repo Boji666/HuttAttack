@@ -1,2 +1,2 @@
 # HuttAttack
-A puzzle game with monster and magic
+A puzzle game with monsters and magic
